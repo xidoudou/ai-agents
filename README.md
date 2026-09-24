@@ -7,4 +7,4 @@ the concepts to real-world-inspired scenarios.
 ## Projects
 |#| Project |Concepts |Status|
 |-|---------|---------|------|
-|1|Unit Converter Agent|Hand-built ReAct loop, regex-based action parsing|✅|
+|1|[Unit Converter Agent](agent01_unit_converter_agent.ipynb)|Hand-built ReAct loop, regex-based action parsing|✅|
