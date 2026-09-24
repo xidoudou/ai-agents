@@ -8,4 +8,4 @@ the concepts to real-world-inspired scenarios.
 |#| Project |Concepts |Status|API Required|
 |-|---------|---------|------|------------|
 |1|[Unit Converter Agent](agent01_unit_converter_agent.ipynb)|Hand-built ReAct loop, regex-based action parsing|✅|open-ai-api|
-|2|[Finance Assistant](agent02_finance_assistant.ipynb)|Langgraph|✅|open-ai-api，exchange-rate-api|
+|2|[Finance Assistant](agent02_finance_assistant.ipynb)|LangGraph, @tool decorator, official tool calling, bind_tools, multi-step tool chaining|✅|open-ai-api，exchange-rate-api|
